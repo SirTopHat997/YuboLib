@@ -2,7 +2,7 @@
 - Login
 
 # What is this for?:
-- To interact with yubo.live offical API
+- To interact with yubo.live official API
 
 # How can i contribute?
 - We are solely based off the community and my free time
